@@ -65,3 +65,7 @@ The workflow implemented in the Jupyter notebook `Task 2 Credit Risk Prediction.
    jupyter notebook
    ```
 4. Open and execute `Task 2 Credit Risk Prediction.ipynb`.
+
+        
+
+   
